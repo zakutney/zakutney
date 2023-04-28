@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zakutney
+- 👋 Hi, I’m Joe
 - 👀 I’m interested in appling AI to mental health needs
 - 🌱 I’m currently learning Python and foundations for LLM's
 - 💞️ I’m looking to collaborate on building AI training programs for therapits
