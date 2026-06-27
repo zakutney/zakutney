@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joe
-- 👀 I’m interested in appling AI to Ops, mental health, coaching, and fitness
+- 👀 I’m interested in applying AI to Ops, mental health, coaching, and fitness
 - 🌱 I’m currently learning Python and foundations for LLM's
-- 💞️ I’m looking to collaborate on building AI tools
+- I’m looking to collaborate on building AI tools
 - 📫 How to reach me ...message me here!
 
 <!---
